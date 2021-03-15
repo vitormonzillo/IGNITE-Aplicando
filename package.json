@@ -13,6 +13,6 @@
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
-  "repository": "https://github.com/vitormonzillo/IGNITE-Aplicando.git",
+  "repository": "https://github.com/vitormonzillo/IGNITE-Aplicando",
   "author": "Vitor Monzillo <vitor.monzillo@gmail.com>"
 }
